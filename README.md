@@ -1,6 +1,6 @@
 # Optimizing Training Efficiency through Conversational LLM
-## Team deFacto Global
-### Members: Boyuan (Daniel) Zhang, Tao Li, Vibhas Goel, Guang (Jacky) Yang
+*Team deFacto Global*
+*Members: Boyuan (Daniel) Zhang, Tao Li, Vibhas Goel, Guang (Jacky) Yang*
 
 **Executive Summary**
 <br>
